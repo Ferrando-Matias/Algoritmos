@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejemplos_WindowsForms/1.0.0": {
+        "runtime": {
+          "Ejemplos_WindowsForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplos_WindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

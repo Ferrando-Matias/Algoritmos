@@ -1,0 +1,10 @@
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll

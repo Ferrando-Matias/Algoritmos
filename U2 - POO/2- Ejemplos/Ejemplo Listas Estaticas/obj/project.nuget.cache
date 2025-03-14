@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8410VzLncE0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mati\\Desktop\\2- Ejemplos\\Ejemplo Listas Estaticas\\Ejemplo_con_Listas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mati\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mati\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

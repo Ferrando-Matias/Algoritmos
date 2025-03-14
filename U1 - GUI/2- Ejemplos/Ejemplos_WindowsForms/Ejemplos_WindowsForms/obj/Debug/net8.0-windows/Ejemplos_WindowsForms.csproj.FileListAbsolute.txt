@@ -1,0 +1,16 @@
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\bin\Debug\net8.0-windows\Ejemplos_WindowsForms.exe
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\bin\Debug\net8.0-windows\Ejemplos_WindowsForms.deps.json
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\bin\Debug\net8.0-windows\Ejemplos_WindowsForms.runtimeconfig.json
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\bin\Debug\net8.0-windows\Ejemplos_WindowsForms.dll
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\bin\Debug\net8.0-windows\Ejemplos_WindowsForms.pdb
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.ControlesBasicos.resources
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.dll
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\refint\Ejemplos_WindowsForms.dll
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.pdb
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\Ejemplos_WindowsForms.genruntimeconfig.cache
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\Ejemplos_WindowsForms\obj\Debug\net8.0-windows\ref\Ejemplos_WindowsForms.dll

@@ -1,0 +1,21 @@
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\bin\Debug\Ejemplo_Clases-Metodos.exe.config
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\bin\Debug\Ejemplo_Clases-Metodos.exe
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\bin\Debug\Ejemplo_Clases-Metodos.pdb
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases_Metodos.Properties.Resources.resources
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.exe
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.pdb
+C:\Users\matia\Desktop\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases_Metodos.frmAccessors.resources
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\Ejemplo_Clases-Metodos.exe.config
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\Ejemplo_Clases-Metodos.exe
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\Ejemplo_Clases-Metodos.pdb
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases_Metodos.frmAccessors.resources
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases_Metodos.Properties.Resources.resources
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.exe
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\Ejemplo_Clases-Metodos.pdb

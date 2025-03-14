@@ -1,0 +1,4 @@
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_58\obj\Debug\net8.0\Actividad_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_58\obj\Debug\net8.0\Actividad_58.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_58\obj\Debug\net8.0\Actividad_58.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_58\obj\Debug\net8.0\Actividad_58.csproj.CoreCompileInputs.cache

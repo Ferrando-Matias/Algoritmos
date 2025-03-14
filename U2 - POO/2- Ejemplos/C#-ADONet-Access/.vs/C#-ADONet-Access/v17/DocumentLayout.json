@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mi unidad\\01 - Colegios\\_Terciario\\0.0 - Algoritmos y Estructuras de Datos II\\01 - Unidades Tematicas\\U2 - POO\\2- Ejemplos\\C#-ADONet-Access\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F5D8D-7178-4A08-8546-D10EECDDB5FD}|C#-ADONet-Access.csproj|g:\\mi unidad\\01 - colegios\\_terciario\\0.0 - algoritmos y estructuras de datos ii\\01 - unidades tematicas\\u2 - poo\\2- ejemplos\\c#-adonet-access\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8F5D8D-7178-4A08-8546-D10EECDDB5FD}|C#-ADONet-Access.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8F5D8D-7178-4A08-8546-D10EECDDB5FD}|C#-ADONet-Access.csproj|G:\\Mi unidad\\01 - Colegios\\_Terciario\\0.0 - Algoritmos y Estructuras de Datos II\\01 - Unidades Tematicas\\U2 - POO\\2- Ejemplos\\C#-ADONet-Access\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A8F5D8D-7178-4A08-8546-D10EECDDB5FD}|C#-ADONet-Access.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\01 - Colegios\\_Terciario\\0.0 - Algoritmos y Estructuras de Datos II\\01 - Unidades Tematicas\\U2 - POO\\2- Ejemplos\\C#-ADONet-Access\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Mi unidad\\01 - Colegios\\_Terciario\\0.0 - Algoritmos y Estructuras de Datos II\\01 - Unidades Tematicas\\U2 - POO\\2- Ejemplos\\C#-ADONet-Access\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:51:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\Mi unidad\\01 - Colegios\\_Terciario\\0.0 - Algoritmos y Estructuras de Datos II\\01 - Unidades Tematicas\\U2 - POO\\2- Ejemplos\\C#-ADONet-Access\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Mi unidad\\01 - Colegios\\_Terciario\\0.0 - Algoritmos y Estructuras de Datos II\\01 - Unidades Tematicas\\U2 - POO\\2- Ejemplos\\C#-ADONet-Access\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:51:50.222Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

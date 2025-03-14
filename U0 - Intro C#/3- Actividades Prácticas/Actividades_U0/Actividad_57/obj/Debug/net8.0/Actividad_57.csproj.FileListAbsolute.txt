@@ -1,0 +1,14 @@
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\bin\Debug\net8.0\Actividad_57.exe
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\bin\Debug\net8.0\Actividad_57.deps.json
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\bin\Debug\net8.0\Actividad_57.runtimeconfig.json
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\bin\Debug\net8.0\Actividad_57.dll
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\bin\Debug\net8.0\Actividad_57.pdb
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\Actividad_57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\Actividad_57.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\Actividad_57.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\Actividad_57.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\Actividad_57.dll
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\refint\Actividad_57.dll
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\Actividad_57.pdb
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\Actividad_57.genruntimeconfig.cache
+C:\Users\Mati\Desktop\Actividades_U0\Actividad_57\obj\Debug\net8.0\ref\Actividad_57.dll

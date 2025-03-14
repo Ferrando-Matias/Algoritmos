@@ -1,0 +1,14 @@
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\bin\Debug\net8.0\10_Metodos.exe
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\bin\Debug\net8.0\10_Metodos.deps.json
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\bin\Debug\net8.0\10_Metodos.runtimeconfig.json
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\bin\Debug\net8.0\10_Metodos.dll
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\bin\Debug\net8.0\10_Metodos.pdb
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\10_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\10_Metodos.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\10_Metodos.AssemblyInfo.cs
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\10_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\10_Metodos.dll
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\refint\10_Metodos.dll
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\10_Metodos.pdb
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\10_Metodos.genruntimeconfig.cache
+C:\Users\Mati\Desktop\C#Basico\10_Metodos\obj\Debug\net8.0\ref\10_Metodos.dll

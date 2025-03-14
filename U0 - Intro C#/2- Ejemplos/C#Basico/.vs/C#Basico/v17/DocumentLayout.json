@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mati\\Desktop\\C#Basico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A0007E-516F-4932-BAFF-FE7DECF39A08}|10_Metodos\\10_Metodos.csproj|c:\\users\\mati\\desktop\\c#basico\\10_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A0007E-516F-4932-BAFF-FE7DECF39A08}|10_Metodos\\10_Metodos.csproj|solutionrelative:10_metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mati\\Desktop\\C#Basico\\10_Metodos\\Program.cs",
+              "RelativeDocumentMoniker": "10_Metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\Mati\\Desktop\\C#Basico\\10_Metodos\\Program.cs",
+              "RelativeToolTip": "10_Metodos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T04:16:06.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

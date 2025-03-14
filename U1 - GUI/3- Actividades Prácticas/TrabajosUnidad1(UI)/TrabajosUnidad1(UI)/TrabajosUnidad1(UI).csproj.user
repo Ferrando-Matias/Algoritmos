@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="FrmSeleccionador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP68.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP69.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP70.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP71.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP72.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP73.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP74.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP75.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP76.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP77.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP78.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP79.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP80.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP81.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP82.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmTP83.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

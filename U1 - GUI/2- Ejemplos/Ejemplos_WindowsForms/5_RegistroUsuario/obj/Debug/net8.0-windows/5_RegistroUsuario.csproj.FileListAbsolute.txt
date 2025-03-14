@@ -1,0 +1,17 @@
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\bin\Debug\net8.0-windows\5_RegistroUsuario.exe
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\bin\Debug\net8.0-windows\5_RegistroUsuario.deps.json
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\bin\Debug\net8.0-windows\5_RegistroUsuario.runtimeconfig.json
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\bin\Debug\net8.0-windows\5_RegistroUsuario.dll
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\bin\Debug\net8.0-windows\5_RegistroUsuario.pdb
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\_5_RegistroUsuario.frmPrincipal.resources
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\_5_RegistroUsuario.frmTerminos.resources
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\5_RegistroUsuario.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\5_RegistroUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\5_RegistroUsuario.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\5_RegistroUsuario.AssemblyInfo.cs
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\5_RegistroUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\5_RegistroUsuario.dll
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\refint\5_RegistroUsuario.dll
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\5_RegistroUsuario.pdb
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\5_RegistroUsuario.genruntimeconfig.cache
+C:\Users\Mati\Desktop\Ejemplos_WindowsForms\5_RegistroUsuario\obj\Debug\net8.0-windows\ref\5_RegistroUsuario.dll

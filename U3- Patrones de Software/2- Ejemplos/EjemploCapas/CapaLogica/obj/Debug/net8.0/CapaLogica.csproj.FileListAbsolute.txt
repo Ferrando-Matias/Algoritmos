@@ -1,0 +1,13 @@
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\net8.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\net8.0\CapaLogica.deps.json
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\net8.0\CapaLogica.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\net8.0\CapaLogica.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\net8.0\CapaLogica.csproj.Up2Date
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\net8.0\CapaLogica.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\net8.0\refint\CapaLogica.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\net8.0\CapaLogica.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaLogica\obj\Debug\net8.0\ref\CapaLogica.dll

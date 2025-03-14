@@ -1,0 +1,14 @@
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\bin\Debug\net8.0\6_Arrays.exe
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\bin\Debug\net8.0\6_Arrays.deps.json
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\bin\Debug\net8.0\6_Arrays.runtimeconfig.json
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\bin\Debug\net8.0\6_Arrays.dll
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\bin\Debug\net8.0\6_Arrays.pdb
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\6_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\6_Arrays.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\6_Arrays.AssemblyInfo.cs
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\6_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\6_Arrays.dll
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\refint\6_Arrays.dll
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\6_Arrays.pdb
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\6_Arrays.genruntimeconfig.cache
+C:\Users\Mati\Desktop\C#Basico\6_Arrays\obj\Debug\net8.0\ref\6_Arrays.dll

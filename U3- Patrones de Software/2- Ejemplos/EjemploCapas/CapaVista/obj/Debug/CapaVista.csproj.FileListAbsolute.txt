@@ -1,0 +1,15 @@
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaDatos.dll
+C:\Users\Mati\Desktop\EjemploCapas\CapaVista\bin\Debug\CapaDatos.pdb

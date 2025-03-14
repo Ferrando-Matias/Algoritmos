@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Controles", "Ejemplos_WindowsForms\1_Controles.csproj", "{6C72AF26-6B43-4FEB-B8FD-F5BC306C9DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_MesageBox", "MesageBox\2_MesageBox.csproj", "{06EF680A-1583-4381-BB3A-6AD36DF5F0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_LlamarOtrosForms", "LlamarOtrosForms\3_LlamarOtrosForms.csproj", "{DCEA3741-C601-4735-BA79-C4043F86604E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_DateTimePicker_NumericUpDown", "DateTimePicker_NumericUpDown\4_DateTimePicker_NumericUpDown.csproj", "{21C49315-0526-4AF9-82C5-073AA0960DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_RegistroUsuario", "5_RegistroUsuario\5_RegistroUsuario.csproj", "{F93C04B2-07DF-4A42-BAC1-E8966B1CBC72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_DataGridView", "6_DataGridView\6_DataGridView.csproj", "{63F4C40F-7888-4616-998D-ED28770E08B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C72AF26-6B43-4FEB-B8FD-F5BC306C9DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C72AF26-6B43-4FEB-B8FD-F5BC306C9DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C72AF26-6B43-4FEB-B8FD-F5BC306C9DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C72AF26-6B43-4FEB-B8FD-F5BC306C9DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EF680A-1583-4381-BB3A-6AD36DF5F0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EF680A-1583-4381-BB3A-6AD36DF5F0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EF680A-1583-4381-BB3A-6AD36DF5F0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EF680A-1583-4381-BB3A-6AD36DF5F0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEA3741-C601-4735-BA79-C4043F86604E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEA3741-C601-4735-BA79-C4043F86604E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEA3741-C601-4735-BA79-C4043F86604E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEA3741-C601-4735-BA79-C4043F86604E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C49315-0526-4AF9-82C5-073AA0960DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C49315-0526-4AF9-82C5-073AA0960DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C49315-0526-4AF9-82C5-073AA0960DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C49315-0526-4AF9-82C5-073AA0960DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93C04B2-07DF-4A42-BAC1-E8966B1CBC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93C04B2-07DF-4A42-BAC1-E8966B1CBC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93C04B2-07DF-4A42-BAC1-E8966B1CBC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93C04B2-07DF-4A42-BAC1-E8966B1CBC72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F4C40F-7888-4616-998D-ED28770E08B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F4C40F-7888-4616-998D-ED28770E08B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F4C40F-7888-4616-998D-ED28770E08B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F4C40F-7888-4616-998D-ED28770E08B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

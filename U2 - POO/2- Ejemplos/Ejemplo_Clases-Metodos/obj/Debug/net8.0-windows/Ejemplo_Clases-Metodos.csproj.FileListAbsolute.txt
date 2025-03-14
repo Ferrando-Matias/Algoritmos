@@ -1,0 +1,16 @@
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\net8.0-windows\Ejemplo_Clases-Metodos.exe
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\net8.0-windows\Ejemplo_Clases-Metodos.dll.config
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\net8.0-windows\Ejemplo_Clases-Metodos.deps.json
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\net8.0-windows\Ejemplo_Clases-Metodos.runtimeconfig.json
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\net8.0-windows\Ejemplo_Clases-Metodos.dll
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\bin\Debug\net8.0-windows\Ejemplo_Clases-Metodos.pdb
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\Ejemplo_Clases_Metodos.frmAccessors.resources
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\Ejemplo_Clases_Metodos.Properties.Resources.resources
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\Ejemplo_Clases-Metodos.csproj.GenerateResource.cache
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\Ejemplo_Clases-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\Ejemplo_Clases-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\Ejemplo_Clases-Metodos.dll
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\refint\Ejemplo_Clases-Metodos.dll
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\Ejemplo_Clases-Metodos.pdb
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\Ejemplo_Clases-Metodos.genruntimeconfig.cache
+C:\Users\Mati\Desktop\2- Ejemplos\Ejemplo_Clases-Metodos\obj\Debug\net8.0-windows\ref\Ejemplo_Clases-Metodos.dll
